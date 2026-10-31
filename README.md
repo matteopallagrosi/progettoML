@@ -76,8 +76,8 @@ progettoML/
 ├── project_sentiment_analysis.ipynb  # Main project notebook
 ├── accuracy.csv                      # Accuracy results
 ├── f1.csv                            # F1-score results
-├── presentazioneML.pdf                # Project presentation
-└── README.md                          # Project documentation
+├── presentazioneML.pdf               # Project presentation
+└── README.md                         # Project documentation
 ```
 
 ## Getting Started
